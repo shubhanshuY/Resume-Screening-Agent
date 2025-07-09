@@ -17,8 +17,7 @@ This project is a **Resume Ranking HR Assistant** 🧑‍💼 — it takes a **j
 
 | Home Page | Ranking Results |
 |-----------|----------------|
-| ![Home](screenshots/home.png) | ![Results](screenshots/results.png) |
-
+| ![Homepage](screenshots/homepage.png) | ![Upload](screenshots/upload.png) | ![Load](screenshots/loading.png) | ![Results](screenshots/Result.png) | | ![Logs](screenshots/Logs.png)
 
 ---
 
