@@ -104,7 +104,7 @@ python3 -m venv venv
 source venv/bin/activate
 
 pip install -r requirements.txt
----
+```
 
 ## Environment Variables
 Create a .env file in the root directory:
@@ -113,7 +113,7 @@ env
 TOGETHER_API_KEY=your_key_here
 Replace your_key_here with your Together.ai (or other LLM) API key.
 
-🖥️ Usage
+## 🖥️ Usage
 Command-line Agent
 bash
 Copy
@@ -126,7 +126,7 @@ Edit
 streamlit run app.py
 Then open the URL shown in terminal, usually: http://localhost:8501
 
-🤝 Contributions
+## 🤝 Contributions
 PRs welcome!
 You can help by:
 
@@ -136,7 +136,7 @@ Supporting more models
 
 Optimizing the ranking logic
 
-📄 License
+## 📄 License
 MIT
 
 ⭐ If you like it, please star the repo!
