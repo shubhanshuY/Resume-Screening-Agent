@@ -109,7 +109,7 @@ pip install -r requirements.txt
 ## Environment Variables
 Create a .env file in the root directory:
 
-env
+.env
 
 TOGETHER_API_KEY=your_key_here
 
