@@ -110,7 +110,9 @@ pip install -r requirements.txt
 Create a .env file in the root directory:
 
 env
+
 TOGETHER_API_KEY=your_key_here
+
 Replace your_key_here with your Together.ai (or other LLM) API key.
 
 ## 🖥️ Usage
